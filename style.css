@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: lightskyblue;
+    padding: 7px;
+    border-radius: 10px;
+}
+
+main h1 {
+    color: purple;
+    font-size: 30px;
+    text-align: center;
+}
+
+footer p {
+    background-color: lime;
+}
+
+nav {
+    background-color: darkgreen;
+    padding: 6px;
+}
+
+
+nav a {
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    margin: 40px;
+}
